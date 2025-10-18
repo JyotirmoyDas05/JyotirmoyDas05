@@ -53,9 +53,21 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JyotirmoyDas05&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=JyotirmoyDas05&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JyotirmoyDas05&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: stretch; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=JyotirmoyDas05&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" style="height: 195px;" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=JyotirmoyDas05&theme=tokyonight&hide_border=false" style="height: 195px;" />
+  </div>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JyotirmoyDas05&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="height: 200px; width: auto;" />
+</div>
+
+
+# 🧑‍💻 DSA Stats
+
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" height ="23" width="23"/> LeetCode 
+![Leetcode Stats](https://leetcard.jacoblin.cool/JyotimoyDas5?font=lexend&ext=heatmap)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JyotirmoyDas05&theme=github_dark&no-frame=true&no-bg=true&margin-w=4)
