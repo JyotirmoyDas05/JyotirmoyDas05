@@ -2,6 +2,9 @@
   <img height="150" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433"  />
 </div>
 
+![](https://komarev.com/ghpvc/?username=JyotirmoyDas05&color=blue&style=for-the-badge&label=Lurkers&abbreviated=true)
+
+
 # 💫 About Me:
 🔭 I’m currently working on AI-powered finance chatbots, innovative social media integration projects, and creative web apps—including music collaboration platforms and Chrome extensions.  <br>👯 I’m looking to collaborate on creative tech solutions and open-source initiatives that push the boundaries of automation and interactive design.  <br>🤝 I’m looking for help with integrating emerging technologies like blockchain, IoT, and scalable cloud frameworks into my projects.  <br>🌱 I’m currently learning advanced machine learning techniques in Python, exploring efficient cloud computing strategies, and refining my app development skills.  <br>💬 Ask me about fintech innovations, AI automation in social media, or the evolution of my coding journey.  <br>⚡ Fun fact: I wrote my first line of code at the age of 17, igniting my passion for building transformative tech solutions!
 
@@ -52,18 +55,6 @@
 </div>
 
 
-# 📊 GitHub Stats:
-
-<div align="center">
-  <div style="display: flex; justify-content: center; align-items: stretch; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=JyotirmoyDas05&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" style="height: 195px;" />
-    <img src="https://nirzak-streak-stats.vercel.app/?user=JyotirmoyDas05&theme=tokyonight&hide_border=false" style="height: 195px;" />
-  </div>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JyotirmoyDas05&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="height: 200px; width: auto;" />
-</div>
-
-
 # 🧑‍💻 DSA Stats
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" height ="23" width="23"/> LeetCode 
@@ -75,11 +66,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JyotirmoyDas05&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JyotirmoyDas05&icon=3&color=0)](https://visitcount.itsvg.in)
 
 
 # ✅ Contributions
