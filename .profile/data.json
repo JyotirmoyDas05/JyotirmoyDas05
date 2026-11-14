@@ -1,0 +1,552 @@
+{
+ "key": "77432987",
+ "stars": 47,
+ "contributions": 799,
+ "repos": 32,
+ "followers": 26,
+ "languages": [
+  [
+   "TypeScript",
+   14611591
+  ],
+  [
+   "Kotlin",
+   7459997
+  ],
+  [
+   "Go",
+   1268058
+  ],
+  [
+   "Java",
+   992404
+  ],
+  [
+   "SCSS",
+   444800
+  ],
+  [
+   "JavaScript",
+   370588
+  ],
+  [
+   "Python",
+   299924
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 7,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 3,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 10,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 7,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 14,
+    "today": true
+   }
+  ]
+ ],
+ "streak": {
+  "current": 8,
+  "longest": 13
+ },
+ "pins": [
+  {
+   "name": "Hack-a-Bot",
+   "url": "https://github.com/JyotirmoyDas05/Hack-a-Bot",
+   "text": "A DIscord Bot for Getting Dev oppurtunities right on you favorite/Personal Discord Server",
+   "fork": false,
+   "stars": 2,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "context7",
+   "url": "https://github.com/JyotirmoyDas05/context7",
+   "text": "Context7 MCP Server -- Up-to-date documentation for LLMs and AI code editors",
+   "fork": true,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "OpenPilot",
+   "url": "https://github.com/JyotirmoyDas05/OpenPilot",
+   "text": "Your Favorite AI agent now in your Favorite Terminal in a stylish way",
+   "fork": false,
+   "stars": 2,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "AttendX",
+   "url": "https://github.com/JyotirmoyDas05/AttendX",
+   "text": "Kotlin app for Self attendance management and other student centric features",
+   "fork": false,
+   "stars": 10,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "android-application",
+    "kotlin",
+    "material-3-expressive",
+    "attendance-tracking",
+    "students"
+   ]
+  },
+  {
+   "name": "Musicly",
+   "url": "https://github.com/JyotirmoyDas05/Musicly",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "portfolio",
+   "url": "https://github.com/JyotirmoyDas05/portfolio",
+   "text": "My Portfolio Site",
+   "fork": false,
+   "stars": 3,
+   "language": "TypeScript",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "AttendX",
+   "url": "https://github.com/JyotirmoyDas05/AttendX",
+   "text": "Kotlin app for Self attendance management and other student centric features",
+   "fork": false,
+   "stars": 10,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "android-application",
+    "kotlin",
+    "material-3-expressive",
+    "attendance-tracking",
+    "students"
+   ]
+  },
+  {
+   "name": "NPTEL-The-Joy-of-Computing-using-Python",
+   "url": "https://github.com/JyotirmoyDas05/NPTEL-The-Joy-of-Computing-using-Python",
+   "text": "",
+   "fork": false,
+   "stars": 8,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "portfolio",
+   "url": "https://github.com/JyotirmoyDas05/portfolio",
+   "text": "My Portfolio Site",
+   "fork": false,
+   "stars": 3,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "finwise.ly",
+   "url": "https://github.com/JyotirmoyDas05/finwise.ly",
+   "text": "FinWise.ly is an AI-powered personal finance management platform that helps users track expenses, set financial goals, and enhance financial literacy through interactive content. Featuring a comprehensive dashboard and responsive interface, it offers detailed tracking and goal-setting tools for smarter financial decisions.",
+   "fork": false,
+   "stars": 3,
+   "language": "TypeScript",
+   "topics": [
+    "ai",
+    "firebase-database",
+    "github",
+    "firebase-authentication",
+    "youtube-api-v3",
+    "google-gemini",
+    "google-solution-challenge-2025",
+    "nextjs15",
+    "shadcn-ui",
+    "vercel"
+   ]
+  },
+  {
+   "name": "Musicly",
+   "url": "https://github.com/JyotirmoyDas05/Musicly",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "Buddhiman-Bin-sih2",
+   "url": "https://github.com/JyotirmoyDas05/Buddhiman-Bin-sih2",
+   "text": "Expo App for बुद्धिमान WasteBin",
+   "fork": true,
+   "stars": 2,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "OpenPilot",
+   "url": "https://github.com/JyotirmoyDas05/OpenPilot",
+   "text": "Your Favorite AI agent now in your Favorite Terminal in a stylish way",
+   "fork": false,
+   "stars": 2,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "Hack-a-Bot",
+   "url": "https://github.com/JyotirmoyDas05/Hack-a-Bot",
+   "text": "A DIscord Bot for Getting Dev oppurtunities right on you favorite/Personal Discord Server",
+   "fork": false,
+   "stars": 2,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "LightNote",
+   "url": "https://github.com/JyotirmoyDas05/LightNote",
+   "text": "Personal Note Taking app Built on a Rich Text Editor with Full PostgreSQL Database Support",
+   "fork": false,
+   "stars": 2,
+   "language": "TypeScript",
+   "topics": [
+    "nextjs",
+    "note-taking",
+    "notes-app",
+    "shadcn-ui",
+    "vercel"
+   ]
+  },
+  {
+   "name": "Hack-a-Bot-scraper",
+   "url": "https://github.com/JyotirmoyDas05/Hack-a-Bot-scraper",
+   "text": "A Web Scraper tool Built to scrape Hackathon and Internship organisers website, will be Integrated in Future with Hack-a-Bot( A Discord Bot to give timely updates on such oppurtunities)",
+   "fork": false,
+   "stars": 2,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "AakashSanchar",
+   "url": "https://github.com/JyotirmoyDas05/AakashSanchar",
+   "text": "A News Intelligence Dashboard for South East Asia Region",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": [
+    "news",
+    "nextjs",
+    "reactjs",
+    "webllm"
+   ]
+  },
+  {
+   "name": "Atlas",
+   "url": "https://github.com/JyotirmoyDas05/Atlas",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "terax-ai",
+   "url": "https://github.com/JyotirmoyDas05/terax-ai",
+   "text": "Lightweight (7MB) Terminal-first AI-native dev workspace",
+   "fork": true,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "MRAS",
+   "url": "https://github.com/JyotirmoyDas05/MRAS",
+   "text": "Medical Record Archival System with Information Retrieval System",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "git-test-demo",
+   "url": "https://github.com/JyotirmoyDas05/git-test-demo",
+   "text": "Git and GitHub session",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": [
+    "git",
+    "github"
+   ]
+  },
+  {
+   "name": "BigOsee",
+   "url": "https://github.com/JyotirmoyDas05/BigOsee",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": [
+    "dsa",
+    "learning",
+    "nextjs",
+    "reactjs",
+    "visualization"
+   ]
+  },
+  {
+   "name": "SANGAI",
+   "url": "https://github.com/JyotirmoyDas05/SANGAI",
+   "text": "A destination discovery app",
+   "fork": true,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "GUenARK_hackathon",
+   "url": "https://github.com/JyotirmoyDas05/GUenARK_hackathon",
+   "text": "We will win Today",
+   "fork": true,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "FluidMaps",
+   "url": "https://github.com/JyotirmoyDas05/FluidMaps",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "terminaltube",
+   "url": "https://github.com/JyotirmoyDas05/terminaltube",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "ColabDraw",
+   "url": "https://github.com/JyotirmoyDas05/ColabDraw",
+   "text": "A new way to Visualize",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": [
+    "ai",
+    "appwrite",
+    "collaboration-tools",
+    "end-to-end-encryption",
+    "nextjs16-typescript",
+    "whiteboard"
+   ]
+  },
+  {
+   "name": "Labs-Solutions",
+   "url": "https://github.com/JyotirmoyDas05/Labs-Solutions",
+   "text": "This repository provides solutions for Google Cloud Labs, offering easy-to-understand approaches to solving problems. It is designed to help learners quickly grasp key concepts and apply practical solutions, making Google Cloud Labs more accessible and easier to learn.",
+   "fork": true,
+   "stars": 1,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "DSA",
+   "url": "https://github.com/JyotirmoyDas05/DSA",
+   "text": "A collection of LeetCode and Codeforces questions done during my Academic Years to ace the coding interview!",
+   "fork": false,
+   "stars": 1,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "GeeksForGeeks-GU",
+   "url": "https://github.com/JyotirmoyDas05/GeeksForGeeks-GU",
+   "text": "Website for The GEEKSFORGEEKS-GU chapter",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "CodeStreak",
+   "url": "https://github.com/JyotirmoyDas05/CodeStreak",
+   "text": "CodeStreak is a productivity and motivation tool designed for coders who want to keep up with daily problem-solving or project goals. Whether you're preparing for coding interviews, building personal projects, or improving your skills one line at a time, CodeStreak helps you stay on track and maintain your momentum.",
+   "fork": true,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "context7",
+   "url": "https://github.com/JyotirmoyDas05/context7",
+   "text": "Context7 MCP Server -- Up-to-date documentation for LLMs and AI code editors",
+   "fork": true,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "JyotirmoyDas05",
+   "url": "https://github.com/JyotirmoyDas05/JyotirmoyDas05",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "tuneup-v2",
+   "url": "https://github.com/JyotirmoyDas05/tuneup-v2",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "Fashion-compare-Coupon-Extension",
+   "url": "https://github.com/JyotirmoyDas05/Fashion-compare-Coupon-Extension",
+   "text": "A Chrome extension for fashion product comparison and coupon integration using advanced image similarity algorithms and API-driven coupon aggregation.",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "ui",
+   "url": "https://github.com/JyotirmoyDas05/ui",
+   "text": "Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "genesis",
+   "url": "https://github.com/JyotirmoyDas05/genesis",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "Arkadia",
+   "url": "https://github.com/JyotirmoyDas05/Arkadia",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  }
+ ]
+}
