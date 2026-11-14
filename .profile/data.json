@@ -1,5 +1,5 @@
 {
- "key": "77432987",
+ "key": "5f63ca45",
  "stars": 47,
  "contributions": 799,
  "repos": 32,
@@ -385,7 +385,7 @@
   {
    "name": "BigOsee",
    "url": "https://github.com/JyotirmoyDas05/BigOsee",
-   "text": "",
+   "text": "An attempt to Create a Algorithm Visualizer for ADHD peeps like me :)",
    "fork": false,
    "stars": 1,
    "language": "TypeScript",
@@ -427,7 +427,7 @@
   {
    "name": "terminaltube",
    "url": "https://github.com/JyotirmoyDas05/terminaltube",
-   "text": "",
+   "text": "A Terminal Media Player to Watch Your Videos on terminal itself While Your Agents Vibecode",
    "fork": false,
    "stars": 1,
    "language": "Go",
