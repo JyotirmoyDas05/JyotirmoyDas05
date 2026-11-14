@@ -1,0 +1,31 @@
+name: Expressive Profile
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - profile.json
+      - .profile/icons.json
+      - .github/workflows/expressive-profile.yml
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: metawka/expressive-profile@v1
+        with:
+          token: ${{ secrets.PROFILE_TOKEN || github.token }}
+      - name: Remove credit footer
+        run: |
+          sed -i '/metawka\.github\.io\/expressive-profile/d' README.md
+          rm -f assets/credit-dark.svg assets/credit-light.svg
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A README.md assets
+          git diff --cached --quiet || (git commit -m "Remove credit footer" && git push)
