@@ -24,3 +24,7 @@
 
 
 </div>
+
+## GitGud
+
+<a href="https://github.com/Frecodesubculture/GitGud"><strong>GitGud</strong></a> — Originally developed primarily by me and later transferred to the Frecodesubculture club.

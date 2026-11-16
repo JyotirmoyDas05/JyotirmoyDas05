@@ -25,6 +25,14 @@ jobs:
         run: |
           sed -i '/metawka\.github\.io\/expressive-profile/d' README.md
           rm -f assets/credit-dark.svg assets/credit-light.svg
+          if ! grep -q 'Frecodesubculture/GitGud' README.md; then
+            cat >> README.md <<'EOF'
+
+## GitGud
+
+<a href="https://github.com/Frecodesubculture/GitGud"><strong>GitGud</strong></a> — Originally developed primarily by me and later transferred to the Frecodesubculture club.
+EOF
+          fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A README.md assets
