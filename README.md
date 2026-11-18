@@ -14,6 +14,8 @@
 
 <a href="https://github.com/JyotirmoyDas05/Hack-a-Bot"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-hack-a-bot-dark.svg"><img src="assets/project-hack-a-bot-light.svg" width="49%" alt="Hack-a-Bot"></picture></a>&nbsp;<a href="https://github.com/JyotirmoyDas05/OpenPilot"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-openpilot-dark.svg"><img src="assets/project-openpilot-light.svg" width="49%" alt="OpenPilot"></picture></a>
 
+<a href="https://github.com/TheFreeCodeSubculture/GitGud"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-gitgud-dark.svg"><img src="assets/project-gitgud-light.svg" width="49%" alt="GitGud"></picture></a>
+
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
@@ -24,7 +26,3 @@
 
 
 </div>
-
-## GitGud
-
-<a href="https://github.com/Frecodesubculture/GitGud"><strong>GitGud</strong></a> — Originally developed primarily by me and later transferred to the Frecodesubculture club.

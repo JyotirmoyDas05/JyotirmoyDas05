@@ -9,6 +9,7 @@ on:
       - profile.json
       - .profile/icons.json
       - .github/workflows/expressive-profile.yml
+      - .github/expressive-profile/**
 
 permissions:
   contents: write
@@ -18,22 +19,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: metawka/expressive-profile@v1
-        with:
-          token: ${{ secrets.PROFILE_TOKEN || github.token }}
-      - name: Remove credit footer
+      # Bundled metawka/expressive-profile@v1 renderer, patched so "owner/name"
+      # entries in projects.repos (e.g. TheFreeCodeSubculture/GitGud) get the same card.
+      - name: Render
+        run: node .github/expressive-profile/render.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || github.token }}
+      - name: Remove credit footer and commit
         run: |
           sed -i '/metawka\.github\.io\/expressive-profile/d' README.md
           rm -f assets/credit-dark.svg assets/credit-light.svg
-          if ! grep -q 'Frecodesubculture/GitGud' README.md; then
-            cat >> README.md <<'EOF'
-
-## GitGud
-
-<a href="https://github.com/Frecodesubculture/GitGud"><strong>GitGud</strong></a> — Originally developed primarily by me and later transferred to the Frecodesubculture club.
-EOF
-          fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A README.md assets
-          git diff --cached --quiet || (git commit -m "Remove credit footer" && git push)
+          git add -A README.md assets .profile
+          git diff --cached --quiet || (git commit -m "Updated profile" && git push)
