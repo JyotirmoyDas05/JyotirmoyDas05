@@ -1,5 +1,5 @@
 {
- "key": "9a29bc2d",
+ "key": "4fd00f1f",
  "stars": 49,
  "contributions": 804,
  "repos": 32,
@@ -7,7 +7,7 @@
  "languages": [
   [
    "TypeScript",
-   14635395
+   18698069
   ],
   [
    "Kotlin",
@@ -22,16 +22,16 @@
    992404
   ],
   [
-   "SCSS",
-   444800
-  ],
-  [
-   "JavaScript",
-   373230
+   "Jupyter Notebook",
+   959118
   ],
   [
    "Python",
-   299924
+   468652
+  ],
+  [
+   "JavaScript",
+   468605
   ]
  ],
  "days": [
@@ -534,6 +534,15 @@
    "fork": true,
    "stars": 0,
    "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "GitGud",
+   "url": "https://github.com/TheFreeCodeSubculture/GitGud",
+   "text": "A App to Make it easier to Learn and Master The Commons of Software devs tools",
+   "fork": false,
+   "stars": 5,
+   "language": "HTML",
    "topics": []
   }
  ]
