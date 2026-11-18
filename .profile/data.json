@@ -1,5 +1,5 @@
 {
- "key": "4fd00f1f",
+ "key": "8598186",
  "stars": 49,
  "contributions": 804,
  "repos": 32,
@@ -7,7 +7,7 @@
  "languages": [
   [
    "TypeScript",
-   18698069
+   14635395
   ],
   [
    "Kotlin",
@@ -22,16 +22,16 @@
    992404
   ],
   [
-   "Jupyter Notebook",
-   959118
-  ],
-  [
-   "Python",
-   468652
+   "SCSS",
+   444800
   ],
   [
    "JavaScript",
-   468605
+   373230
+  ],
+  [
+   "Python",
+   299924
   ]
  ],
  "days": [
